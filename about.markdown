@@ -13,7 +13,7 @@ title: "关于赛博食堂"
 
 
 
-本站基于[jekyll][jekyll-organization]制作，使用的模版为[Bulma Clean Theme][bulma-clean-theme]
+本站基于[jekyll][jekyll-organization]制作，使用[Bulma Clean Theme][bulma-clean-theme]模板
 
 [jekyll-organization]: https://github.com/jekyll
 [bulma-clean-theme]:https://www.csrhymes.com/bulma-clean-theme/
