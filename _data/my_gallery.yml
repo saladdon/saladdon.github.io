@@ -1,0 +1,36 @@
+- title: 2022 Nov 27 埼玉长瀞
+  images:
+    - link: ../images/gallery/chichibu/chichibu02.jpg
+      alt: chichibu02
+      description: 乡下的电线杆
+      ratio: is-4by4
+    - link: ../images/gallery/chichibu/chichibu01.jpg
+      alt: chichibu01
+      description: 蜜汁芦苇
+      ratio: is-4by4
+    - link: ../images/gallery/chichibu/chichibu03.jpg
+      alt: chichibu03
+      description: 公园
+      ratio: is-4by4
+    # - link: ../images/gallery/chichibu/chichibu04.jpg
+    #   alt: chichibu04
+    #   description: 2022/11/27 长瀞红叶
+    #   ratio: is-4by4
+    # - link: ../images/gallery/chichibu/chichibu05.jpg
+    #   alt: chichibu05
+    #   description: 2022/11/27 长瀞红叶
+      ratio: is-4by4
+- title: 2022 Aug 17 四国
+  images:
+    - link: ../images/gallery/shikoku/shikoku07.jpg
+      alt: shikoku01
+      description: 栗林公園的池塘
+      ratio: is-4by4
+    - link: ../images/gallery/shikoku/shikoku08.jpg
+      alt: shikoku02
+      description: 栗林公園的松树
+      ratio: is-4by4
+    - link: ../images/gallery/shikoku/shikoku09.jpg
+      alt: shikoku03
+      description: 栗林公園的鱼
+      ratio: is-4by4
