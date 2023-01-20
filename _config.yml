@@ -23,7 +23,7 @@ email: cflarestine@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   由来自魔法镇萨莉亚的辉石料理特级厨师精心烹调每一道赛博小菜
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://saladdon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: celadonf_
 github_username:  saladdon
 #theme_color: '#333333'
@@ -32,8 +32,8 @@ github_username:  saladdon
 footer_menu: footer
 
 hero: true
-hero-image: images/hero_img.jpg # Add background image in section hero
-logo: "images/rice.ico"
+hero-image: "/images/hero_img.jpg" # Add background image in section hero
+logo: "/images/rice.ico"
 # Build settings
 # theme: minima
 plugins:
