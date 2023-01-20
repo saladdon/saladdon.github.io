@@ -14,5 +14,3 @@ hero_darken: true
 由来自魔法镇萨莉亚的辉石料理特级厨师精心烹调每一道赛博小菜
 
 ___
-
-[Home](https://saladdon.github.io)
